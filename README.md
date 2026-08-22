@@ -84,4 +84,7 @@ A 4x4 matrix keypad is used for voter input and officer/admin operations.
 
 **Harsha Vardhan Ravulapalli**
 
-**Embedded Systems | Embedded C | ARM7 | LPC21xx**
+**Domain: Embedded Systems
+
+Skills:
+C | C++ | Embedded C | ARM7 | LPC21xx | I2C | UART | SPI | GPIO | LCD | Keypad | RFID | EEPROM | RTC | Keil | Proteus**
