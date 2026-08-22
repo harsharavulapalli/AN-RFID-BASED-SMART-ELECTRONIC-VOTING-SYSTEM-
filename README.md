@@ -1,5 +1,4 @@
 # INTELLIVOTE-AN-RFID-BASED-SMART-ELECTRONIC-VOTING-SYSTEM
-![Uploading WhatsApp Image 2026-08-22 at 10.56.31 AM.jpeg…]()
 
 ---
 
@@ -22,12 +21,11 @@ The main objective of this project is to develop a secure and reliable electroni
 - LPC21xx / ARM7 Microcontroller
 - RFID Reader
 - RFID Card/Tag
-- 16x2 LCD
+- 20x4 LCD
 - 4x4 Keypad
 - AT24C256 EEPROM
-- DS1307 RTC
+- RTC
 - LEDs
-- Buzzer
 
 ---
 
@@ -35,7 +33,6 @@ The main objective of this project is to develop a secure and reliable electroni
 
 - Embedded C
 - Keil uVision
-- Proteus
 - ARM7 / LPC21xx
 
 ---
@@ -59,12 +56,6 @@ The AT24C256 EEPROM is used for non-volatile data storage. Important configurati
 
 ---
 
-## 🕒 RTC:
-
-The DS1307 RTC is used to maintain the current date and time. It communicates with the LPC21xx microcontroller through the I2C protocol.
-
----
-
 ## 🔐 RFID Authentication:
 
 RFID is used to identify and authenticate voters. Only registered/authorized RFID cards are allowed to proceed with the voting process.
@@ -73,7 +64,7 @@ RFID is used to identify and authenticate voters. Only registered/authorized RFI
 
 ## 📺 LCD:
 
-The 16x2 LCD is used to display system messages such as:
+The 20x4 LCD is used to display system messages such as:
 
 - Scan RFID Card
 - Access Granted
@@ -91,6 +82,6 @@ A 4x4 matrix keypad is used for voter input and officer/admin operations.
 
 ## 👨‍💻 Author:
 
-**Harsha Ravulapalli**
+**Harsha Vardhan Ravulapalli**
 
 **Embedded Systems | Embedded C | ARM7 | LPC21xx**
