@@ -1,4 +1,5 @@
 # INTELLIVOTE-AN-RFID-BASED-SMART-ELECTRONIC-VOTING-SYSTEM
+![Uploading WhatsApp Image 2026-08-22 at 10.56.31 AM.jpeg…]()
 
 ---
 
